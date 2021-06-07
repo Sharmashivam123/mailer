@@ -15,16 +15,5 @@ It can also be used as a notifier.
 * A user can register using a registration form and then he ll get a notification of successful registration.
 * Only Admin can login to see the list of all users subscribed.
 * Admin can select the list of users to send a mail to them.
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
+It can be used with suitable configuration add as an notification service feature.
